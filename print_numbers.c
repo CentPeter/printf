@@ -75,6 +75,6 @@ int print_d(va_list d)
 			count++;
 		}
 	}
-	return (count);
+	return (count);
 }
 

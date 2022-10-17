@@ -93,5 +93,5 @@ int print_b(va_list b)
 			count++;
 		}
 	}
-	return (count);
+	return (count);
 }

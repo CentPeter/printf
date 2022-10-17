@@ -35,6 +35,5 @@ int print_R(va_list R)
 			count++;
 		}
 	}
-	return (count);
+	return (count);
 }
-
